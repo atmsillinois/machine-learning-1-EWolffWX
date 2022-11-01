@@ -6,4 +6,4 @@ methodology in order to evaluate.
 Methods used include:
 - Multiple Linear Regression
 - Polynomial Regression (with a grid search)
-- Random Forest Regression (with a grid search)
+- Random Forest Regression (with a random search)
